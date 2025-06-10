@@ -5,13 +5,13 @@ import cube.CubieCube;
 import cube.Face;
 import cube.Move;
 
-import javax.swing.*;
-import javax.swing.border.LineBorder;
 import java.awt.*;
-import java.awt.event.MouseAdapter;
-import java.awt.event.MouseEvent;
-import java.util.ArrayList;
+import javax.swing.*;
 import java.util.List;
+import java.util.ArrayList;
+import java.awt.event.MouseEvent;
+import java.awt.event.MouseAdapter;
+import javax.swing.border.LineBorder;
 
 public class JCube
 {
